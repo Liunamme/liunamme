@@ -19,6 +19,10 @@ My specialization is in developing SPA/MPA web applications on React framework.
 </p>
 ### Badges
 
+<b>CodeWars</b>
+
+[![codewars](https://www.codewars.com/users/Liunamme/badges/large)](https://www.codewars.com/users/Liunamme/)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Liunamme"><img src="https://github-readme-stats.vercel.app/api?username=Liunamme&show_icons=true&hide=prs,issues,contribs&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Liunamme's GitHub stats" /></a>
