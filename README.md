@@ -29,7 +29,19 @@ My specialization is in developing SPA/MPA web applications on React framework.
 
 <b>Top Repositories</b>
 
-[![MafiaLegacy](https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=MafiaLegacy&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Liunamme/MafiaLegacy)
-[![BlackWall](https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=BlackWall&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Liunamme/BlackWall)
-[![EnglishGuru](https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=EnglishGuru&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Liunamme/EnglishGuru)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=portfolio&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Liunamme/portfolio)
+<div width="100%" align="center">
+  <a href="https://github.com/Liunamme/MafiaLegacy" align="left">
+    <img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=MafiaLegacy&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Liunamme/BlackWall" align="right">
+    <img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=BlackWall&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/Liunamme/EnglishGuru" align="left">
+    <img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=EnglishGuru&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Liunamme/portfolio" align="right">
+    <img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=portfolio&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br />
