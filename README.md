@@ -42,4 +42,7 @@ My specialization is in developing SPA/MPA web applications on React framework.
   <a href="https://github.com/Liunamme/portfolio" style="flex: 1; width: 300px; height: 150px;">
     <img width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=portfolio&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+    <a href="https://github.com/Liunamme/techtackCE" style="flex: 1; width: 300px; height: 150px;">
+    <img width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Liunamme&repo=techtackCE&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
 </div>
