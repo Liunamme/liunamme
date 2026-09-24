@@ -57,7 +57,7 @@ Frontend-разработчик с **3,5+ годами** коммерческо�
 ## 🚀 Избранные работы
 
 <a href="https://liunamme.ru/ru/works/id-clinic-23">
-  <img src="https://cms.liunamme.ru/uploads/5_b353588673.png" alt="ID Clinic 23 — личный кабинет пациента, desktop и мобильная версия в offline-режиме" width="100%" />
+  <img src="https://cms.liunamme.ru/uploads/1_df71dbdd38.png" alt="ID Clinic 23 — личный кабинет пациента, desktop и мобильная версия в offline-режиме" width="100%" />
 </a>
 
 ### [ID Clinic 23](https://liunamme.ru/ru/works/id-clinic-23) · личный кабинет пациента
