@@ -56,38 +56,36 @@ Frontend-разработчик с **3,5+ годами** коммерческо�
 
 ## 🚀 Избранные работы
 
+<a href="https://liunamme.ru/ru/works/id-clinic-23">
+  <img src="./assets/id-clinic-23.jpg" alt="ID Clinic 23 — личный кабинет пациента, desktop и мобильная версия в offline-режиме" width="100%" />
+</a>
+
+### [ID Clinic 23](https://liunamme.ru/ru/works/id-clinic-23) · личный кабинет пациента
+
+Единый личный кабинет пациента Клиники «Екатерининская»: запись к врачу, результаты анализов, документы, калькулятор исследований и работа без сети.
+
 <table>
   <tr>
-    <td width="50%" valign="middle">
-      <a href="https://liunamme.ru/ru/works/id-clinic-23">
-        <img src="https://cms.liunamme.ru/uploads/screen_card_c53e4bdad5.png" alt="ID Clinic 23 — личный кабинет пациента" width="100%" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>ID Clinic 23</h3>
-      <p>Единый личный кабинет пациента Клиники «Екатерининская»: запись к врачу, результаты анализов, документы, калькулятор исследований и работа без сети.</p>
-      <p>
-        <b>~30 000</b> активных пользователей в месяц<br/>
-        <b>12 000+</b> записей в месяц через сайт и кабинет<br/>
-        <b>3–4×</b> быстрее выпуск фич, чем в нативных приложениях
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" alt="Zustand" />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-      </p>
-      <p><a href="https://liunamme.ru/ru/works/id-clinic-23"><b>Смотреть кейс →</b></a><br/>
-      <sub>Коммерческий код закрыт, скриншоты и детали на сайте</sub></p>
-    </td>
+    <td align="center"><b>~30 000</b><br/><sub>активных пользователей в месяц</sub></td>
+    <td align="center"><b>12 000+</b><br/><sub>записей в месяц через сайт и кабинет</sub></td>
+    <td align="center"><b>3–4×</b><br/><sub>быстрее выпуск фич, чем в нативных приложениях</sub></td>
   </tr>
 </table>
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+<img src="https://img.shields.io/badge/Service_Worker-1f2937?style=flat-square" alt="Service Worker" />
+
+**[Смотреть кейс →](https://liunamme.ru/ru/works/id-clinic-23)** <sub>· коммерческий код закрыт, скриншоты и детали на сайте</sub>
+
 <!--
-  Когда выложишь код сайта-портфолио или pet-проект, скопируй блок <table> выше,
-  подставь скриншот, описание, стек и ссылки на репозиторий и демо.
+  Когда выложишь код сайта-портфолио или pet-проект, скопируй блок выше
+  (картинка → заголовок → описание → цифры → бейджи → ссылки),
+  подставь свой скриншот в папку assets и ссылки на репозиторий и демо.
 -->
 
 ## 🤖 Как я работаю с AI
