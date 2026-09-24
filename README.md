@@ -11,6 +11,7 @@
 <a href="https://liunamme.ru"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-liunamme.ru-0b1026?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Портфолио" /></a>
 <a href="https://t.me/liunamme_dev"><img src="https://img.shields.io/badge/Telegram-@liunamme__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:zadorozhnyi.emmanuil@gmail.com"><img src="https://img.shields.io/badge/Email-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://hh.ru/resume/90306dddff0f02703a0039ed1f44596a346e54"><img src="https://img.shields.io/badge/hh.ru-%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-D6001C?style=for-the-badge" alt="Резюме на hh.ru" /></a>
 
 </div>
 
@@ -41,8 +42,9 @@ Frontend-разработчик с **3,5+ годами** коммерческо�
 
 <img src="https://skillicons.dev/icons?i=jest,vitest,vite,webpack,docker,git,gitlab,bitbucket&theme=dark" alt="Jest, Vitest, Vite, Webpack, Docker, Git, GitLab, Bitbucket" />
 
-<br/><br/>
+<br/>
 
+<p>
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
 <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" alt="Zustand" />
 <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
@@ -51,13 +53,14 @@ Frontend-разработчик с **3,5+ годами** коммерческо�
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/MCP-1f2937?style=flat-square" alt="MCP" />
+</p>
 
 </div>
 
 ## 🚀 Избранные работы
 
 <a href="https://liunamme.ru/ru/works/id-clinic-23">
-  <img src="https://cms.liunamme.ru/uploads/1_df71dbdd38.png" alt="ID Clinic 23 — личный кабинет пациента, desktop и мобильная версия в offline-режиме" width="100%" />
+  <img src="https://cms.liunamme.ru/uploads/5_b353588673.png" alt="ID Clinic 23 — личный кабинет пациента, desktop и мобильная версия в offline-режиме" width="100%" />
 </a>
 
 ### [ID Clinic 23](https://liunamme.ru/ru/works/id-clinic-23) · личный кабинет пациента
@@ -72,20 +75,22 @@ Frontend-разработчик с **3,5+ годами** коммерческо�
   </tr>
 </table>
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" alt="Zustand" />
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-<img src="https://img.shields.io/badge/Service_Worker-1f2937?style=flat-square" alt="Service Worker" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Zustand-433e38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Service_Worker-1f2937?style=flat-square" alt="Service Worker" />
+</p>
 
 **[Смотреть кейс →](https://liunamme.ru/ru/works/id-clinic-23)** <sub>· коммерческий код закрыт, скриншоты и детали на сайте</sub>
 
 <!--
   Когда выложишь код сайта-портфолио или pet-проект, скопируй блок выше
   (картинка → заголовок → описание → цифры → бейджи → ссылки),
-  подставь свой скриншот в папку assets и ссылки на репозиторий и демо.
+  подставь ссылку на скриншот и ссылки на репозиторий и демо.
 -->
 
 ## 🤖 Как я работаю с AI
